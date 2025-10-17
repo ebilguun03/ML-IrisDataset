@@ -1,0 +1,11 @@
+.venv/
+venv/
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+# Jupyter
+.ipynb_checkpoints/
+# OS/editor cruft
+.DS_Store
+.vscode/
