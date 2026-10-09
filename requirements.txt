@@ -2,3 +2,5 @@ numpy
 pandas
 scikit-learn
 joblib
+matplotlib>=3.9,<4
+scipy
